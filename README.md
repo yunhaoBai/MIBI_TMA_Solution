@@ -15,13 +15,13 @@ Parameter:
 User operation.  
 [4] xmlfilename: the name of XML file generated in user step  
   
-\> python TMA_cutting.py 081318_Ionpath_TMA_Tonsil.jpg[1] LRG[2] UP[3]  
-\> length of cnts: 64   
+> python TMA_cutting.py 081318_Ionpath_TMA_Tonsil.jpg[1] LRG[2] UP[3]  
+> length of cnts: 64   
 (pop-up an image)   
 <img src=https://github.com/yunhaoBai/MIBI_TMA_Solution/blob/master/Sample_TMA_LRG_contour.png alt="drawing" width="500"/>
 
 (Check the cross labeled region on popped-up carousel image (it will also be saved to current directory), use SED to adjust your position, then do all setup for this spot(depth/dwelling time, etc.), save the XML file. Close the popped-up image.)  
-\> Please input the XML file name with the selected point and settings.  
-\> please enter the name of xml File: test.xml[4]  
+> Please input the XML file name with the selected point and settings.  
+> please enter the name of xml File: test.xml[4]  
   
 (got a xml file named ALL_test.xml)
