@@ -17,6 +17,7 @@ User operation.
   
 > python TMA_cutting.py 081318_Ionpath_TMA_Tonsil.jpg[1] LRG[2] UP[3]  
 > length of cnts: 64   
+  
 (pop-up an image)   
 <img src=https://github.com/yunhaoBai/MIBI_TMA_Solution/blob/master/Sample_TMA_LRG_contour.png alt="drawing" width="500"/>
 
